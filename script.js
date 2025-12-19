@@ -6,4 +6,4 @@ function getKeys(obj) {
 	return Object.keys(obj)
 }
 
-console.log(getKeys(student))
+eval("console.log(getKeys(student))")
